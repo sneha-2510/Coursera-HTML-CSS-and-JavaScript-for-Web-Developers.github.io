@@ -13,3 +13,6 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
+* [Module-2](https://sneha-2510.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers.github.io/Assignments/module-2/)
+* [Module-3](https://sneha-2510.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers.github.io/Assignments/module-3/)
+* [Module-4](https://sneha-2510.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers.github.io/Assignments/module-4/)
